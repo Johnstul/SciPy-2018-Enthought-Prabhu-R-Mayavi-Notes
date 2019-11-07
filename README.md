@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=r6OD07Qq2mw
 
 All code was originally authored by Prabhu Ramachandran.
 
-I edited and modified the code and transferred over the code and concepts into notebook form.
+I edited and modified the code, and transferred over the code and concepts into notebook form, primiarily for my own reference.
 
 Author's sites:
 
