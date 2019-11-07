@@ -2,7 +2,7 @@
 
 My Python notes / notebooks based on Prabhu Ramachandran's video 3D Visualization with Mayavi - SciPy 2018 Tutorial.
 
-# https://www.youtube.com/watch?v=r6OD07Qq2mw
+https://www.youtube.com/watch?v=r6OD07Qq2mw
 
 All code was originally authored by Prabhu Ramachandran.
 
@@ -12,8 +12,8 @@ Author's sites:
 
 https://github.com/prabhuramachandran
 
-# https://github.com/prabhuramachandran/mayavi-tutorial/blob/master/installation.md
+https://github.com/prabhuramachandran/mayavi-tutorial/blob/master/installation.md
 
-# https://github.com/enthought/mayavi
+https://github.com/enthought/mayavi
 
-# http://docs.enthought.com/mayavi/mayavi/
+http://docs.enthought.com/mayavi/mayavi/
