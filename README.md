@@ -17,3 +17,9 @@ https://github.com/prabhuramachandran/mayavi-tutorial/blob/master/installation.m
 https://github.com/enthought/mayavi
 
 http://docs.enthought.com/mayavi/mayavi/
+
+You can also use the Nbviewer Online page to view the notebook:
+
+https://nbviewer.jupyter.org/
+
+https://nbviewer.org/github/Johnstul/SciPy-2018-Enthought-Prabhu-R-Mayavi-Notes/blob/master/SciPy%202018%20-%20Enthought%20Mayavi%20Notes%202c.ipynb
